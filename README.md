@@ -1,10 +1,10 @@
-<h1 align="center"><b>🚩 hey All 🚩</b></h1>
+<h1 align="center"><b>🚩 Jai shree Ram 🚩</b></h1>
 
 <p align="center">
-  <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="DreamxBotz Logo">
+  <img src="https://i.ibb.co/n8rrV7Jj/file-00000000971c71faa61d1fdd6b442415.png" alt="Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77 Logo">
 </p>
 
-<h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</h1>
+<h1 align="center">Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</h1>
 
 ---
 
